@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SBB\'s Coffee house</string>
+    <string name="colvokoffe">Number of cups of coffee</string>
+    <string name="please_enter_your_name">Please enter your name</string>
+    <string name="ThanksForPurchase">" Thank you for your order!"</string>
+    <string name="rub">" Rub."</string>
+    <string name="new_zakaz">New order</string>
+    <string name="podschet">Calculate</string>
+    <string name="price">Cost</string>
+    <string name="AddSlivki">Add the cream?</string>
+    <string name="AddChoco">To add chocolate?</string>
+    <string name="YourName">Your name</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Кофейня у СББшки</string>
+    <string name="colvokoffe">Количество чашек кофе</string>
+    <string name="please_enter_your_name">Пожалуйста, введите ваше имя</string>
+    <string name="ThanksForPurchase">" Cпасибо за Ваш заказ!"</string>
+    <string name="rub">" руб."</string>
+    <string name="new_zakaz">Новый заказ</string>
+    <string name="podschet">Подсчитать</string>
+    <string name="price">Стоимость</string>
+    <string name="AddSlivki">Добавить сливки?</string>
+    <string name="AddChoco">Добавить шоколад?</string>
+    <string name="YourName">Ваше имя</string>
+</resources>
