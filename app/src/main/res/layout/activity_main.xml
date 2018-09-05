@@ -119,7 +119,7 @@
             android:layout_marginTop="8dp"
             android:inputType="none"
             android:onClick="addcup"
-            android:text="++"
+            android:text="+"
             android:textSize="18sp"
             app:layout_constraintEnd_toStartOf="@+id/kolichestvo"
             app:layout_constraintStart_toStartOf="parent"
