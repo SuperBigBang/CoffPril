@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CoffeTheme1" parent="android:Theme.Holo.Light.DarkActionBar">
+        <item name="android:colorAccent">@color/accent_device_default_light_1</item>
+        <item name="android:colorPrimary">@color/primary_device_default_dark</item>
+        <item name="android:statusBarColor">@android:color/holo_green_light</item>
+    </style>
+
+    <style name="AppTheme" parent="android:Theme.Material.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:statusBarColor">@android:color/holo_blue_bright</item>
+    </style>
+</resources>
